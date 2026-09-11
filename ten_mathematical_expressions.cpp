@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+  int two = 2;
   int three = 3;
   int four = 4;
   int five = 5;
