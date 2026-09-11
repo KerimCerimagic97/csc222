@@ -7,7 +7,7 @@ void new_line(){
 
 void adding_new_func(){
   cout << "First Line." << endl;
-  newLine();
+  new_Line();
   cout << "Second Line." << endl;
 }
 
