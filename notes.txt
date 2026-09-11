@@ -1,0 +1,19 @@
+Chapter 1-2:
+
+binary: base 2, starts with 0b
+Octal: base 8, starts with 0
+Hexadecimal, base 16, uses A-F for 11-15, starts with 0x
+
+
+C++ Basics:
+
+cout = displaying outputs,   followed by << (variable)
+cin = user input,   followed by >> (variable)
+endl = ends the line
+
+// for comments, can be put at the end of a line
+++ and -- for incrementation
+
+variable decleration: type name; type name = value;
+ex:  int age = 16;
+
