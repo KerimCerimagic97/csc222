@@ -34,7 +34,7 @@ void par_arg(){
 
 int main(){
     adding_new_func();
-    print_twice();
+    par_arg();
     
   return 0;
 }
