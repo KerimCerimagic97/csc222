@@ -5,6 +5,10 @@ Octal: base 8, starts with 0
 Hexadecimal, base 16, uses A-F for 11-15, starts with 0x
 
 
+Terminal basics:
+To compile code:  g++ “code name” -o “program name”
+To run: ./“program name”
+
 
 C++ Basics:
 
