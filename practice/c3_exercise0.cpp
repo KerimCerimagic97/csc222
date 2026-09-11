@@ -26,8 +26,8 @@ void par_arg(){
     print_twice('b');
     print_twice('c');
     print_twice(24);
-    print_twice(24.6);
-    print_twice("tryme");
+    //print_twice(24.6);
+    //print_twice("tryme");
 }
 
 //Question 3:
