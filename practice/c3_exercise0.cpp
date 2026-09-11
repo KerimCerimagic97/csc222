@@ -34,7 +34,7 @@ void par_arg(){
 
 //Question 3:
 
-int func1(x){
+int func1(int x){
     return x*2;
 }
 
