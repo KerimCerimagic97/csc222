@@ -5,7 +5,15 @@ Octal: base 8, starts with 0
 Hexadecimal, base 16, uses A-F for 11-15, starts with 0x
 
 
+
 C++ Basics:
+
+at the top:
+#include <iostream>
+using namespace std;
+
+to declare main: int main() {}
+-have a return statement at the end
 
 cout = displaying outputs,   followed by << (variable)
 cin = user input,   followed by >> (variable)
