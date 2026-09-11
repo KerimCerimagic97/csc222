@@ -32,10 +32,10 @@ void par_arg(){
 
 //Question 3:
 
-int main()
-{
-  
-  adding_new_func();
+int main(){
+    adding_new_func();
+    print_twice();
+    
   return 0;
 }
 
