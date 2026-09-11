@@ -25,3 +25,9 @@ endl = ends the line
 variable decleration: type name; type name = value;
 ex:  int age = 16;
 
+
+dec, hex, oct to convert literal integer number to different bases
+scientific to convert float to scientific notation, or numenum2 ex: 2e2 = 2*10^2
+
+setw sets the minimum field width for the value to be printed, ex setw(10) << 2 = "         2"
+
