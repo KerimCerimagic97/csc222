@@ -30,11 +30,23 @@ void par_arg(){
     //print_twice("tryme");
 }
 
+// works with int but not with double or String
+
 //Question 3:
+
+int func1(x){
+    return x*2;
+}
+
+void func2(){
+    cout << "hello world" << endl;
+}
 
 int main(){
     adding_new_func();
     par_arg();
+    func1(15);
+    cout << "abc" < func2() << endl;
     
   return 0;
 }
