@@ -12,6 +12,15 @@ at the top:
 #include <iostream>
 using namespace std;
 
+
+Libraries
+#include - adds libraries
+
+<iostream> adds cout and cin
+<math> adds math functions
+<cstdlib> c standard library, adds functions like random
+
+
 to declare main: int main() {}
 -have a return statement at the end
 
@@ -31,3 +40,4 @@ scientific to convert float to scientific notation, or numenum2 ex: 2e2 = 2*10^2
 
 setw sets the minimum field width for the value to be printed, ex setw(10) << 2 = "         2"
 
+time() = seconds since jan 1st 1979
