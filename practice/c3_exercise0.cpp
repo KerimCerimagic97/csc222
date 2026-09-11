@@ -42,11 +42,13 @@ void func2(){
     cout << "hello world" << endl;
 }
 
+//Calling function 1 without using it for anything works, however calling function 2 does not work.
+
 int main(){
     adding_new_func();
     par_arg();
     func1(15);
-    cout << "abc" < func2() << endl;
+    //cout << "abc" << func2() << endl;
     
   return 0;
 }
