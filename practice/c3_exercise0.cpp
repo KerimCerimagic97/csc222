@@ -10,7 +10,6 @@ void adding_new_func(){
   cout << "First Line." << endl;
   newLine();
   cout << "Second Line." << endl;
-  return 0;
 }
 
 
