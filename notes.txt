@@ -52,14 +52,26 @@ setw sets the minimum field width for the value to be printed, ex setw(10) << 2 
 time() = seconds since jan 1st 1979
 
 
-Logical Operators:
+Logical Operators and Booleans:
 not>and>or
 
 AND: &&
 OR:  ||
 NOT: !
 
+for boolean operators, bool name = value
+flags are booleans that check wether the condition of something is met, ex:  bool even_flag = (n%2 == 0); true if n is even
+Numbers can be used as booleans, 0 = false, non-zero = true
 
+Bitwise Operators:
+*come back later*
+
+
+Conditional statements:
+
+if(Logical Operator){code}
+
+while(Logical Operator){code}
 
 
 
