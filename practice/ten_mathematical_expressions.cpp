@@ -10,6 +10,7 @@ int main() {
   int seven = 7;
   int eight = 8;
 
+  //Test comment
   cout << "The sum of " << three <<" and " << seven << " equals " << three+seven << "." << endl;
 
   cout << "The difference of " << eight <<" and " << seven << " equals " << eight-seven << "." << endl;
