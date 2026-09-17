@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-	int x = 20;
+        cin >> int x;
 
 	cout << x << " is my favorite number" <<endl;
 
