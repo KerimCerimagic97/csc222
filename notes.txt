@@ -64,7 +64,16 @@ flags are booleans that check wether the condition of something is met, ex:  boo
 Numbers can be used as booleans, 0 = false, non-zero = true
 
 Bitwise Operators:
-*come back later*
+
+- turns inputted values into Binary and then compares them,
+
+AND  - & -   1 if both operand bits are 1, otherwise 0
+
+OR   - | -   1 if at least one operand bit is 1, 0 if both operand bits are 0
+
+XOR  - ^ -   1 if at exactly one operand bit is 1, otherwise 0
+
+NOT  - ~ -   1 if operand bit is 0, 0 if operand bit is 1
 
 
 Conditional statements:
